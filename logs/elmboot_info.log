@@ -89,3 +89,32 @@
 20231010131334623|A8001|INFO|main|springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator[40]|Generating unique operation named: updateOrderUsingPOST_1
 20231010131334632|A8001|INFO|main|springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator[40]|Generating unique operation named: addSetmealUsingPOST_1
 20231010131334681|A8001|INFO|main|com.example.elmboot.ElmbootApplication[61]|Started ElmbootApplication in 5.203 seconds (JVM running for 6.824)
+20231010133245131|A8001|INFO|SpringApplicationShutdownHook|com.alibaba.druid.pool.DruidDataSource[2071]|{dataSource-1} closing ...
+20231010133245133|A8001|INFO|SpringApplicationShutdownHook|com.alibaba.druid.pool.DruidDataSource[2144]|{dataSource-1} closed
+20231010133323364|A8001|INFO|background-preinit|org.hibernate.validator.internal.util.Version[21]|HV000001: Hibernate Validator 6.0.16.Final
+20231010133323406|A8001|INFO|main|com.example.elmboot.ElmbootApplication[55]|Starting ElmbootApplication using Java 17 on WINDOWS-QR593CM with PID 13968 (E:\代码\大三小学期_MySql_Python\Vue_MySql_project\拓展项目\熙心健康体检管理系统（专业大型综合实验）\elmboot\target\classes started by shileiv6 in E:\代码\大三小学期_MySql_Python\Vue_MySql_project\拓展项目\熙心健康体检管理系统（专业大型综合实验）)
+20231010133323411|A8001|INFO|main|com.example.elmboot.ElmbootApplication[637]|No active profile set, falling back to default profiles: default
+20231010133325011|A8001|INFO|main|org.springframework.boot.web.embedded.tomcat.TomcatWebServer[108]|Tomcat initialized with port(s): 8088 (http)
+20231010133325022|A8001|INFO|main|org.apache.coyote.http11.Http11NioProtocol[173]|Initializing ProtocolHandler ["http-nio-8088"]
+20231010133325023|A8001|INFO|main|org.apache.catalina.core.StandardService[173]|Starting service [Tomcat]
+20231010133325023|A8001|INFO|main|org.apache.catalina.core.StandardEngine[173]|Starting Servlet engine: [Apache Tomcat/9.0.56]
+20231010133325140|A8001|INFO|main|org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/][173]|Initializing Spring embedded WebApplicationContext
+20231010133325140|A8001|INFO|main|org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext[290]|Root WebApplicationContext: initialization completed in 1674 ms
+20231010133325317|A8001|INFO|main|com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure[56]|Init DruidDataSource
+20231010133325411|A8001|INFO|main|com.alibaba.druid.pool.DruidDataSource[998]|{dataSource-1} inited
+20231010133326165|A8001|INFO|main|springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping[69]|Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+20231010133326497|A8001|INFO|main|org.apache.coyote.http11.Http11NioProtocol[173]|Starting ProtocolHandler ["http-nio-8088"]
+20231010133326540|A8001|INFO|main|org.springframework.boot.web.embedded.tomcat.TomcatWebServer[220]|Tomcat started on port(s): 8088 (http) with context path ''
+20231010133326541|A8001|INFO|main|springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper[160]|Context refreshed
+20231010133326561|A8001|INFO|main|springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper[163]|Found 1 custom documentation plugin(s)
+20231010133326595|A8001|INFO|main|springfox.documentation.spring.web.scanners.ApiListingReferenceScanner[41]|Scanning for api listing references
+20231010133326873|A8001|INFO|main|springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator[40]|Generating unique operation named: listCideByOrderIdUsingPOST_1
+20231010133326881|A8001|INFO|main|springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator[40]|Generating unique operation named: saveUsingPOST_1
+20231010133326920|A8001|INFO|main|springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator[40]|Generating unique operation named: loginUsingPOST_1
+20231010133326931|A8001|INFO|main|springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator[40]|Generating unique operation named: addUsingPOST_1
+20231010133326934|A8001|INFO|main|springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator[40]|Generating unique operation named: deleteUsingPOST_1
+20231010133326938|A8001|INFO|main|springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator[40]|Generating unique operation named: listUsingPOST_1
+20231010133326941|A8001|INFO|main|springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator[40]|Generating unique operation named: saveUsingPOST_2
+20231010133326968|A8001|INFO|main|springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator[40]|Generating unique operation named: updateOrderUsingPOST_1
+20231010133326977|A8001|INFO|main|springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator[40]|Generating unique operation named: addSetmealUsingPOST_1
+20231010133327034|A8001|INFO|main|com.example.elmboot.ElmbootApplication[61]|Started ElmbootApplication in 4.131 seconds (JVM running for 5.357)
